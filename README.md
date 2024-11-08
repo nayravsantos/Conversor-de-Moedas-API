@@ -1,6 +1,6 @@
 # Conversor de Moedas API
 
-Este projeto é uma evolução do projeto desenvolvido na AVPI, com o objetivo de criar uma aplicação web que permita ao usuário converter valores entre diferentes moedas de forma fácil e precisa. Este conversor utiliza HTML5, CSS3 e JavaScript puro, além de uma API de câmbio para obter taxas de conversão em tempo real.
+Este projeto é uma evolução do projeto desenvolvido na AVPI, com o objetivo de criar uma aplicação web que permita ao usuário converter valores entre diferentes moedas de forma fácil e precisa. Este conversor utiliza HTML5, CSS3 e JavaScript puro, além de uma API de câmbio para obter taxas de conversão em tempo real. Este projeto é uma versão melhorada do projeto [Conversor Simples](https://github.com/nayravsantos/Conversor-de-moedas).
 
 ![](img.png)
 
