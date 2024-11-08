@@ -50,3 +50,51 @@ document.getElementById('reset').addEventListener('click', function() {
     document.getElementById('paraMoeda').selectedIndex = 0;
     document.getElementById('result').innerText = '';
 });
+
+// Código Professor
+// document.getElementById('currency-form').addEventListener('submit', function(event){
+   // event.preventDefault();
+
+    // Obter valores de entrada informados pelo usúario
+   // const valor = parseFloat(document.getElementById('amount').value);
+   // const daMoeda = document.getElementById('daMoeda').value;
+   // const paraMoeda = document.getElementById('paraMoeda').value;
+
+    // Definir taxas de câmbio fixas
+   // const exchangeRates = {
+       // USD: { BRL: 5.70, EUR: 0.93 },
+       // BRL: { USD: 0.18, EUR: 0.16 },
+       // EUR: { USD: 1.08, BRL: 6.16 }
+    // };
+
+   // Conversão simples de moedas
+   // let valorConvertido;
+   // if(daMoeda === paraMoeda){
+      // valorConvertido = valor;
+   // }else{
+       // valorConvertido = valor * exchangeRates[daMoeda][paraMoeda];
+   // }
+
+   // const conversao = document.getAnimations('result');
+   // conversao.textContent = `Resultado: ${valorConvertido.toFixed(2)} ${paraMoeda} `;
+// });
+
+// const valor= parseFloat(document.getElementById('amount').value);
+   // const daMoeda = document.getElementById('daMoeda').value;
+  //  const paraMoeda = document.getElementById('paraMoeda').value;
+
+   // const exchangeRate = await getExchangeRate(daMoeda, paraMoeda);
+
+    //if(exchangerate){
+      //  const convertedValue = valor * exchangeRate;
+
+        //console.log(convertedValue);
+
+       // const conversao = document.getElementById('conversao');
+       // conversao.textContent = RESULTADO: ${convertedValue.toFixed(2)}${paraMoeda};
+   // } else{
+      //  alert('Erro ao buscar a cotação. Tente novamente');
+    //}
+
+       
+//});
